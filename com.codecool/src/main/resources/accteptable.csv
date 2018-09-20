@@ -1,3 +1,4 @@
-nickle, 5
-dime, 10
-quarter, 25
+name, value, stock
+nickle, 5, 2
+dime, 10, 2
+quarter, 25, 2
